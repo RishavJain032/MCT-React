@@ -1,0 +1,174 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "john_doe",
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "phone": "1234567890",
+      "website": "www.johndoe.com",
+      "address": {
+        "street": "123 Main Street",
+        "suite": "Apt 4",
+        "city": "New York",
+        "zipcode": "12345"
+      },
+      "company": {
+        "name": "ABC Company"
+      }
+    },
+    {
+      "id": 2,
+      "username": "Mira_william",
+      "name": "Mira william",
+      "email": "mira@example.com",
+      "phone": "7008200830",
+      "website": "www.willmira.com",
+      "address": {
+        "street": "456 Elm Street",
+        "suite": "Unit 9",
+        "city": "Las Vegas",
+        "zipcode": "45562"
+      },
+      "company": {
+        "name": "ACC Corporation"
+      }
+    },
+    {
+      "id": 3,
+      "username": "will_smith",
+      "name": "Will Smith",
+      "email": "will.smith@example.com",
+      "phone": "7328043497",
+      "website": "www.willsmith.com",
+      "address": {
+        "street": "456 Elm Street",
+        "suite": "Unit 7",
+        "city": "San Diago",
+        "zipcode": "54466"
+      },
+      "company": {
+        "name": "ACC Corporation"
+      }
+    },
+    {
+      "id": 4,
+      "username": "sarah_wilson",
+      "name": "Sarah Wilson",
+      "email": "sarah.wilson@example.com",
+      "phone": "1112223333",
+      "website": "www.sarahwilson.com",
+      "address": {
+        "street": "555 Pine Street",
+        "suite": "Suite 3B",
+        "city": "Los Angeles",
+        "zipcode": "54321"
+      },
+      "company": {
+        "name": "XYZ Corporation"
+      }
+    },
+    {
+      "id": 5,
+      "username": "alex_smith",
+      "name": "Alex Smith",
+      "email": "alex.smith@example.com",
+      "phone": "4444444444",
+      "website": "www.alexsmith.com",
+      "address": {
+        "street": "321 Maple Avenue",
+        "suite": "Unit 5",
+        "city": "Seattle",
+        "zipcode": "98765"
+      },
+      "company": {
+        "name": "ABC Company"
+      }
+    },
+    {
+      "id": 6,
+      "username": "michael_jonson",
+      "name": "Michael jonson",
+      "email": "michael.jonson@example.com",
+      "phone": "9998887777",
+      "website": "www.michaeljonson.com",
+      "address": {
+        "street": "444 Cedar Avenue",
+        "suite": "Unit 6",
+        "city": "Radiator spring",
+        "zipcode": "55541"
+      },
+      "company": {
+        "name": "123 Stark Industries"
+      }
+    },
+    {
+      "id": 7,
+      "username": "michael_brown",
+      "name": "Michael brown",
+      "email": "michael.brown@example.com",
+      "phone": "6788887777",
+      "website": "www.michaeljonson.com",
+      "address": {
+        "street": "444 Cedar Avenue",
+        "suite": "Unit 9",
+        "city": "",
+        "zipcode": "56341"
+      },
+      "company": {
+        "name": "New Holland"
+      }
+    },
+    {
+      "id": 8,
+      "username": "olivia_davis",
+      "name": "Olivia Davis",
+      "email": "olivia.davis@example.com",
+      "phone": "3333333333",
+      "website": "www.oliviadavis.com",
+      "address": {
+        "street": "222 Oak Street",
+        "suite": "Apt 6",
+        "city": "Dallas",
+        "zipcode": "67890"
+      },
+      "company": {
+        "name": "ABC Company"
+      }
+    },
+    {
+      "id": 9,
+      "username": "william_thomas",
+      "name": "William Thomas",
+      "email": "william.thomas@example.com",
+      "phone": "7777777777",
+      "website": "www.williamthomas.com",
+      "address": {
+        "street": "888 Maple Avenue",
+        "suite": "Unit 3",
+        "city": "Austin",
+        "zipcode": "98765"
+      },
+      "company": {
+        "name": "XYZ Corporation"
+      }
+    },
+    {
+      "id": 10,
+      "username": "sophia_miller",
+      "name": "Sophia Miller",
+      "email": "sophia.miller@example.com",
+      "phone": "2222222222",
+      "website": "www.sophiamiller.com",
+      "address": {
+        "street": "999 Elm Street",
+        "suite": "Apt 8",
+        "city": "Miami",
+        "zipcode": "45678"
+      },
+      "company": {
+        "name": "123 Industries"
+      }
+    }
+  ]
+}
